@@ -1,0 +1,18 @@
+#topNavbar {
+    background-color: white;
+    height: 80px;
+
+  }
+#search{
+  width: 500px;
+  background-color: #E9F5F3;
+}
+.button-navbar{
+  color: #037682;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 25px;
+  line-height: 42px;
+  text-decoration: none;
+}

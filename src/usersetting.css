@@ -1,0 +1,26 @@
+#Nav-Username{
+    height: 100px;
+}
+#masukan-gambar{
+    height: 200px;
+    width: 200px;
+    margin-top: -80px;
+    margin-bottom: -80px;
+    margin-left: 40px;
+    border-style:solid;
+    border-color: #037682;
+    border-width: 5px;
+}
+#Username{
+    margin-left: 250px;
+    margin-top: -50px;
+}
+#username{
+    font-size: 27px;
+}
+#id-name{
+    margin-top: -20px;
+}
+#edit-profile{
+    margin-top: -40px;
+}
